@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I’m Prathamesh Warak!
 
-<!--
-**Prathameshwarak/Prathameshwarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BE-IT (Direct Second Year) Student | Cybersecurity & Software Enthusiast | Aspiring Web & App Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m currently a BE-IT student at Atharva College with a diploma background in IT. I’m passionate about using technology to solve real-world problems, especially in the realms of cybersecurity, software development, and AI-powered applications.
+
+---
+
+## 🛠️ Top Skills & Technologies
+- **Languages:** Python, Java  
+- **Web Development:** HTML, CSS, Flask  
+- **Android Development:** XML, Java  
+- **GUI:** Tkinter  
+- **Cloud:** Google Cloud Dataproc  
+- **Cybersecurity:** Basics, Web Testing
+
+---
+
+## 🏆 Special Achievements & Certifications
+- **Cyber Security Analyst Intern** at Secure Cyber Future Pvt. Ltd.
+- **Google Cloud Skill Badge:** Introduction to Cloud Dataproc: Hadoop and Spark on Google Cloud
+- **Member:** Google Developer Groups on Campus (GDGC) for Cybersecurity
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/prathamesh-warak/)
+
+---
+
+## 🎯 Fun Facts & Hobbies
+- Exploring new tech tools
+- Working on side projects
+- Learning cybersecurity
+- Constantly challenging myself to improve coding skills
+
+---
+
+> “Technology is best when it brings people together and solves real-world problems.”
+
+---
