@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prathamesh Warak!
 
-**BE-IT (Direct Second Year) Student | Cybersecurity & Software Enthusiast | Aspiring Web & App Developer**
+**BE-IT Student | Cybersecurity & Software Enthusiast | Aspiring Web & App Developer**
 
 ---
 
@@ -28,6 +28,7 @@ I’m currently a BE-IT student at Atharva College with a diploma background in 
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/prathamesh-warak/)
+- [Portfolio](https://prathameshwarak.vercel.app/)
 
 ---
 
