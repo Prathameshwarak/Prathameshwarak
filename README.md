@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prathamesh Warak!
 
-**BE-IT Student | Cybersecurity & Software Enthusiast | Aspiring Web & App Developer**
+**BE-IT Student | Cybersecurity & Software Enthusiast | Aspiring AI-ML & Web App Developer**
 
 ---
 
